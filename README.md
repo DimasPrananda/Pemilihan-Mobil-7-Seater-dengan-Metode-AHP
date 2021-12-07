@@ -1,2 +1,2 @@
-Aplikasi ini 
-# Pemilihan-Mobil-7-Seater-dengan-Metode-AHP
+Aplikasi ini dibuat untuk memenuhi tugas dari Mata Kuliah Sistem Informasi dan Eksekutif
+# NAMA KELOMPOK :
